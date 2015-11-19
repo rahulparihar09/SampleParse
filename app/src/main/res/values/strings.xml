@@ -1,0 +1,7 @@
+<resources>
+    <string name="parse_app_id">pCpBYHi1moQiIsbvDyAR7938mJDXOzQ9gW2QdDsT</string>
+    <string name="parse_client_key">Ffz86U2gkuj0uMbzFXfr8JZsQyi4Nv8mRsuqCSZU</string>
+    <string name="app_name">SampleParse</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
