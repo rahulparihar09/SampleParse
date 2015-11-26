@@ -17,7 +17,7 @@ import com.parse.ParseUser;
 import com.parse.SignUpCallback;
 
 /**
- * Created by manish on 18-11-2015.
+ * Created by Rahul on 18-11-2015.
  */
 public class LoginFragment extends Fragment {
 

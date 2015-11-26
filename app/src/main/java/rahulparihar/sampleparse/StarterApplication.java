@@ -33,7 +33,5 @@ public class StarterApplication extends Application {
         // defaultACL.setPublicReadAccess(true);
         ParseACL.setDefaultACL(defaultACL, true);
 
-//        Parse.initialize(this, "pCpBYHi1moQiIsbvDyAR7938mJDXOzQ9gW2QdDsT", "Ffz86U2gkuj0uMbzFXfr8JZsQyi4Nv8mRsuqCSZU");
-
     }
 }

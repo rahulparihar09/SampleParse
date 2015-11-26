@@ -21,7 +21,7 @@ import java.util.ArrayList;
 import java.util.Locale;
 
 /**
- * Created by manish on 18-11-2015.
+ * Created by Rahul on 18-11-2015.
  */
 public class Dashboard extends Activity implements RecognitionListener {
 
